@@ -1,6 +1,6 @@
 # 2021 PIDICON (De-identification Challenge)
 
-###Team Formation
+### Team Formation
 * Team name: AISEC
 * Team member: 3
 
